@@ -1,8 +1,27 @@
-# React + Vite
+# Google Developer Groups on Campus BVM
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**This is an official repo of GDGC BVM website**
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Run on local machine :
+
+- Clone
+
+```bash
+git clone https://github.com/GDG-On-Campus-BVM/GDG-On-Campus-BVM-Website.git
+cd ./GDG-On-Campus-BVM/GDG-On-Campus-BVM-Website
+```
+
+- Install Dependency 
+
+```bash
+yarn
+```
+
+- Start React 
+
+```bash
+yarn run dev
+```
+
+- press o then Enter and here you go :)
