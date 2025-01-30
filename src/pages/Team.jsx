@@ -12,7 +12,7 @@ const Team = () => {
             githubUrl:
                 "https://www.linkedin.com/in/m-naga-sai-arjun-a97089328/",
             imageUrl:
-                "https://res.cloudinary.com/driy33xtm/image/upload/v1729845482/arjun_qatc7b.jpg",
+                "https://lh3.googleusercontent.com/pw/AP1GczP5PJ-NGAqu3xnuFro388aHDcnTwahEKFy4KQPmBI_TvTj8ozqUFL8Iks6WzPqiaWHeCCcEjYHc6CfeKy7EEd0KqC1K1mFYtFxTa5IB7BXM9Vsqbi5P_-k2iiQrrG28zJ_F-uHHYf_RqkB--9JlagjA=w754-h1007-s-no-gm?authuser=0",
         },
 
         {
